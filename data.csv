@@ -1,0 +1,31 @@
+Owner_name,Vehicle_Name,Vehicle_Type,Vehicle_Make,Owner_Age,Kilometers_Driven,First_Hand,Second_Hand,Registraion_Number,Owner_Occupation
+varshith,I20,Hatchback,Hyundai,6,1000,Yes,No,TS-01-EL-3888,BUSINESS MAN
+Prasanth,Baleno,Hatchback,Maruthi Suzuki,8,2000,No,Yes,KA-03-HA-1985,MEDICAL ASSISTANT
+Saketh,Swift,Hatchback,Maruthi Suzuki,3,26000,Yes,No,MH-19-AG-5465,RETAIL SALES ASSOCIATE
+Sai Kiran,Altroz,Hatchback,Tata,1,700,No,yes,TN-75-AA-7106,SALES REPRESENTATIVE
+Divesh,Jazz,Hatchback,Honda,8,2000,No,Yes,AP 21 BP 7331,SOCIAL MEDIA SPECIALIST
+Balaji,Verna,Sedan,Hyundai,33,12345,Yes,No,UP 19 D 0343,TEACHER
+Abhilash,Virtus,Sedan,Volks Wagen,46,23200,Yes,No,KA 08 J 9192,NURSE
+Venu,A4,Sedan,Audi,57,16000,Yes,No,MH 12 RN 1289,SOFTWARE ENGINEER
+Abhinav,Octavia,Sedan,Skoda,27,92000,No,Yes,TS 07 D TR 2020,CABLE TV OPERATION
+Sampath,Phantom VIII,Sedan,Rolls Royce,51,89000,Yes,No,TS-01-EL-3888,SOCIAL MEDIA SPECIALIST
+Revanth,Scorpio,SUV,Mahindra,5,42010,Yes,No,TS 28 A 2345,BUSINESS MAN
+Gurudatta,Thar,SUV,Mahindra,15,20020,Yes,No,TS 9 AB 1200,SOFTWARE ENGINEER
+Aravind,XUV,SUV,Mahindra,66,20200,Yes,No,TS 13 T5 4656,MEDICAL ASSISTANT
+Vamshi Krishna,Creta,SUV,Hyundai,17,11100,Yes,No,TS-01-EL-3888,SOFTWARE ENGINEER
+Mastaan,Harrier,SUV,Tata,38,43000,Yes,No,AP 21 BP 7331,MEDICAL ASSISTANT
+Kumar,Expendition,Premium SUV,Ford,81,2000,No,Yes,TS 9 AB 1200,SOFTWARE ENGINEER
+Sravan,Land rover,Premium SUV,Range Rover,58,2000,Yes,No,AP 21 BP 7331,SOCIAL MEDIA SPECIALIST
+Hari Krishna,Mercedes,Premium SUV,Benz,18,2000,No,Yes,MH-19-AG-5465,CABLE TV OPERATION
+Mahesh,X7,Premium SUV,BMW,34,2000,Yes,No,MH 12 RN 1289,NURSE
+Venu madhav,Urus,Premium SUV,Lamborgini,23,2000,No,Yes,TS 06 SA 1234,SOFTWARE DEVELOPER
+Prabhas,A6,Limousine,Audi,72,24000,Yes,No,TN-75-AA-7106,BUSINESS MAN
+Varun,5 series,Limousine,BMW,37,27330,No,Yes,UP 19 D 0343,NURSE
+Jayanth,Mercedes E-Class,Limousine,Benz,9,200,No,Yes,MH-19-AG-5465,MEDICAL ASSISTANT
+Eshwar,Mercedes S-Class,Limousine,Benz,47,40600,No,Yes,TS-01-EL-3888,CABLE TV OPERATION
+Ruthvik,A8 L,Limousine,Audi,43,47620,No,Yes,TS 9 AB 1200,BUSINESS MAN
+Rohith,Kwid,Crossover,Renault,25,78645,No,Yes,UP 19 D 0343,TEACHER
+Yashwanth,S-Presso,Crossover,Maruthi Suzuki,35,96458,Yes,No,AP 21 BP 7331,SOCIAL MEDIA SPECIALIST
+Raj Kamal,Ignis,Crossover,Maruthi Suzuki,28,98762,Yes,No,MH 12 RN 1289,SOFTWARE ENGINEER
+Naveen,freestyle,Crossover,Ford,33,13242,Yes,No,MH-19-AG-5465,TEACHER
+Abhishek,S-Cross,Crossover,Maruthi Suzuki,11,22000,No,Yes,TN-75-AA-7106,BUSINESS MAN
